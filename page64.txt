@@ -1,4 +1,14 @@
-Richard Zaat
+Test Server Iconen & Info
+
+Indien het team gebruik maakt van verschillende fysieke of virtuele testomgevingen, en dit veroorzaakt verwarring, maak dan eenvoudig inzichtelijk waar getest kan worden en wat de status is van elke testomgeving. 
+
+Extra details, zoals servernaam, doel, versie, branch, upgrade datum et cetera, staan vermeldt op de wand. De kleur van de iconen komt overeen met de kleur van de server notities.
+
+2 
+
+Zodra een item klaar is om getest te worden in een specifieke testomgeving, markeer de taak met het overeenkomstige icoon.
+
+------------------------------------------------------------
 Test Server Icons & Info
 
 If your team uses several different physical or virtual test environments, and this causes confusion, make it easier to see where things can be tested and the state of each test environment.
