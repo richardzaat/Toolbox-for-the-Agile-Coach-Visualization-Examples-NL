@@ -1,0 +1,12 @@
+Wiel van Exploratief Testen
+
+Als je een flink vloeroppervlakte laat stofzuigen door een semi-intelligente stofzuigrobot, zal op enig moment elk deel van de vloer schoon gemaakt zijn. Eenzelfde aanpak zou gebruikt kunnen worden voor testen.
+
+Kies een aantal charters voor exploratief testen. Plaats ze rond een wiel. Maak een beleid waarin staat dat elk teamlid elke week een van de charters uitvoert. Plaats de charter post-it terug op het wiel en vink de checkbox af na het uitvoeren. Zodra alles in het wiel klaar is, vervang dan enkele van de charters en start het wiel opnieuw.
+
+---------------------------------------------------------------------
+Exploratory Testing Wheel
+
+If you vacuum a huge floor with an automatic semi-dumb vacuum robot, at least at some point in time every area of the floor has been vacuumed. You could use the same approach to testing.
+
+Choose a couple of Exploratory Test Charters. Place them around a wheel. Make it a policy that each member runs one of those charters each week. When done, the charter Post-it is put back on the wheel and the checkbox is crossed. When the wheel is done, replace some of the charters and restart the wheel.
