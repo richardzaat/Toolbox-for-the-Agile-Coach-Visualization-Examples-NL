@@ -4,7 +4,7 @@ Test Server Iconen & Info
 Indien het team gebruik maakt van verschillende fysieke of virtuele testomgevingen, en dit veroorzaakt verwarring, maak dan eenvoudig inzichtelijk waar getest kan worden en wat de status is van elke testomgeving.  
  
  
-Extra details, zoals servernaam, doel, versie, branch, upgrade datum et cetera, staan vermeldt op de wand. De kleur van de iconen komt overeen met de kleur van de server notities. 
+Extra details, zoals servernaam, doel, versie, branch, upgrade datum et cetera, staan vermeldt op het Sprint bord. De kleur van de iconen komt overeen met de kleur van de server notities. 
  
  
 2  
