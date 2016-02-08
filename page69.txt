@@ -1,3 +1,4 @@
+Richard Zaat
 Exploratory Testing Wheel
 
 If you vacuum a huge floor with an automatic semi-dumb vacuum robot, at least at some point in time every area of the floor has been vacuumed. You could use the same approach to testing.
