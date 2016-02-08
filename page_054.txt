@@ -1,0 +1,13 @@
+Release Credits
+
+Aan het einde van elke film worden de release credits getoond, met erkenning voor iedereen die bij het maken van het meesterwerk betreokken is geweest. En waarom zou iemand minder verdienen!? Vier je prestatie van het afmaken van een sprint met het maken van een Release Credit poster.
+
+Ik heb teams gezien die thema's kozen zoals ruimtemissies, superhelden, rockbands et cetera. Datgene dat het beste bij je team past. De verantwoordelijkheid voor het maken van de post kan beurtelings plaatsvinden, of creer het samen als team tijdens de Sprint review.
+
+
+----------------------------------
+Release Credits
+
+By the end of every movie, there are release credits acknowledging everyone involved in creating the masterpiece. Why would you deserve any less!? Celebrate your achievement of finishing a sprint with the creation of a Release Credits poster.
+
+I've seen teams who have chosen themes such as space missions, superhero movies, rock bands etc. Whatever makes you tick. The responsibility to create the poster could rotate, or you create it as a team during the Sprint Review.
